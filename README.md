@@ -5,8 +5,6 @@ Full Stack Developer • AI Engineering Student • Building products for the mo
 </p>
 
 <p align="center">
-I'm a Full Stack Developer and AI Engineering student from India, passionate about building scalable web applications, AI-powered products, and developer tools.
-
 I enjoy turning ideas into real products, experimenting with new technologies, contributing to open source, and continuously learning through projects.
 </p>
 
@@ -27,6 +25,13 @@ I enjoy turning ideas into real products, experimenting with new technologies, c
 <a href="mailto:contact@kartikbansode.dev">
 <img alt="Email" src="https://img.shields.io/badge/Email-contact@kartikbansode.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbansode&theme=github-compact&hide_border=true">
 
 </p>
 
