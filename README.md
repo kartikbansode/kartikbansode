@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Kartik Bansode 👋</h2>
+<h2 align="center">Hi, I'm Kartik 👋</h2>
 
 <p align="center">
 Full Stack Developer • AI Engineering Student • Building products for the modern web
