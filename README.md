@@ -28,12 +28,12 @@ I enjoy turning ideas into real products, experimenting with new technologies, c
 
 </p>
 
-<p align="center">
+<!---<p align="center">
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbansode&theme=github-compact&hide_border=true">
 
-</p>
+</p>--->
 
 
 <!---
